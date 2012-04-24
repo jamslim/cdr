@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #cisco CDR cause codes
+# taken directly from Cisco CUCM 6.x documentation
 
 disconnect_cause_codes = {0 :"No error",
 1 :"Unallocated (unassigned) number",
